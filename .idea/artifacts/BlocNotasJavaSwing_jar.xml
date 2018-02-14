@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BlocNotasJavaSwing:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BlocNotasJavaSwing_jar</output-path>
+    <root id="archive" name="BlocNotasJavaSwing.jar">
+      <element id="module-output" name="BlocNotasJavaSwing" />
+    </root>
+  </artifact>
+</component>

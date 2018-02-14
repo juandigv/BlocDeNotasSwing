@@ -74,6 +74,7 @@ public class Ventana extends JFrame {
         archivo.add(abrir);
         archivo.add(guardar);
         archivo.add(guardarcomo);
+        archivo.addSeparator();
         archivo.add(configurar);
         archivo.add(imprimir);
         archivo.add(salir);
